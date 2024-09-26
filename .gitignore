@@ -1,0 +1,10 @@
+node_modules
+.idea
+.vscode
+website
+
+.vitepress/cache
+
+package-lock.json
+pnpm-lock.yaml
+.npmrc
