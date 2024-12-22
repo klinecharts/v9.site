@@ -1,5 +1,12 @@
 # 📠 Change Log
 
+## 9.8.11
+`2024-12-22`
++ 🐞 Fix the issue that custom indicator custom prompt data may be formatted incorrectly.
++ 🐞 Fix the issue that `executeAction` may cause an infinite loop.
++ 🐞 Fix the issue that the overlay `zLevel` overlay is invalid.
++ 🐞 Fix the issue that typescript types are not exported.
+
 ## 9.8.10
 `2024-06-06`
 + 🐞 Fix the issue of blurry drawing of basic graphics `rect`, `line`.
