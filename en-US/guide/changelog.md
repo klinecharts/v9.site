@@ -1,5 +1,9 @@
 # 📠 Change Log
 
+## 9.8.12
+`2024-12-22`
++ 💄 Remove console.
+
 ## 9.8.11
 `2024-12-22`
 + 🐞 Fix the issue that custom indicator custom prompt data may be formatted incorrectly.
